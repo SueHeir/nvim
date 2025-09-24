@@ -13,5 +13,5 @@ brew install fd
 nvim .
 ```
 
-<Space>ff opens telescope, a fuzzy finder
+{space} ff opens telescope, a fuzzy finder
 
