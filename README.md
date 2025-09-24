@@ -1,5 +1,7 @@
 # nvim
-
+```bash
+brew install neovim
+```
 ```bash
 cd ~/.config
 git clone "this repo"
